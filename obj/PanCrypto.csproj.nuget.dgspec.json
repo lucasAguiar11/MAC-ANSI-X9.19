@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/External/www/pan-crypto/PanCrypto/PanCrypto.csproj": {}
+  },
+  "projects": {
+    "/Volumes/External/www/pan-crypto/PanCrypto/PanCrypto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/External/www/pan-crypto/PanCrypto/PanCrypto.csproj",
+        "projectName": "PanCrypto",
+        "projectPath": "/Volumes/External/www/pan-crypto/PanCrypto/PanCrypto.csproj",
+        "packagesPath": "/Users/aguiar/.nuget/packages/",
+        "outputPath": "/Volumes/External/www/pan-crypto/PanCrypto/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/aguiar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/x64/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

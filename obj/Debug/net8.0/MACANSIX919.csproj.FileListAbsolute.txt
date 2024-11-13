@@ -1,0 +1,14 @@
+/Volumes/External/www/pan-crypto/MACANSIX919/bin/Debug/net8.0/MACANSIX919
+/Volumes/External/www/pan-crypto/MACANSIX919/bin/Debug/net8.0/MACANSIX919.deps.json
+/Volumes/External/www/pan-crypto/MACANSIX919/bin/Debug/net8.0/MACANSIX919.runtimeconfig.json
+/Volumes/External/www/pan-crypto/MACANSIX919/bin/Debug/net8.0/MACANSIX919.dll
+/Volumes/External/www/pan-crypto/MACANSIX919/bin/Debug/net8.0/MACANSIX919.pdb
+/Volumes/External/www/pan-crypto/MACANSIX919/obj/Debug/net8.0/MACANSIX919.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/External/www/pan-crypto/MACANSIX919/obj/Debug/net8.0/MACANSIX919.AssemblyInfoInputs.cache
+/Volumes/External/www/pan-crypto/MACANSIX919/obj/Debug/net8.0/MACANSIX919.AssemblyInfo.cs
+/Volumes/External/www/pan-crypto/MACANSIX919/obj/Debug/net8.0/MACANSIX919.csproj.CoreCompileInputs.cache
+/Volumes/External/www/pan-crypto/MACANSIX919/obj/Debug/net8.0/MACANSIX919.dll
+/Volumes/External/www/pan-crypto/MACANSIX919/obj/Debug/net8.0/refint/MACANSIX919.dll
+/Volumes/External/www/pan-crypto/MACANSIX919/obj/Debug/net8.0/MACANSIX919.pdb
+/Volumes/External/www/pan-crypto/MACANSIX919/obj/Debug/net8.0/MACANSIX919.genruntimeconfig.cache
+/Volumes/External/www/pan-crypto/MACANSIX919/obj/Debug/net8.0/ref/MACANSIX919.dll

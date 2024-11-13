@@ -1,0 +1,14 @@
+/Volumes/External/www/pan-crypto/PanCrypto/bin/Debug/net8.0/PanCrypto
+/Volumes/External/www/pan-crypto/PanCrypto/bin/Debug/net8.0/PanCrypto.deps.json
+/Volumes/External/www/pan-crypto/PanCrypto/bin/Debug/net8.0/PanCrypto.runtimeconfig.json
+/Volumes/External/www/pan-crypto/PanCrypto/bin/Debug/net8.0/PanCrypto.dll
+/Volumes/External/www/pan-crypto/PanCrypto/bin/Debug/net8.0/PanCrypto.pdb
+/Volumes/External/www/pan-crypto/PanCrypto/obj/Debug/net8.0/PanCrypto.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/External/www/pan-crypto/PanCrypto/obj/Debug/net8.0/PanCrypto.AssemblyInfoInputs.cache
+/Volumes/External/www/pan-crypto/PanCrypto/obj/Debug/net8.0/PanCrypto.AssemblyInfo.cs
+/Volumes/External/www/pan-crypto/PanCrypto/obj/Debug/net8.0/PanCrypto.csproj.CoreCompileInputs.cache
+/Volumes/External/www/pan-crypto/PanCrypto/obj/Debug/net8.0/PanCrypto.dll
+/Volumes/External/www/pan-crypto/PanCrypto/obj/Debug/net8.0/refint/PanCrypto.dll
+/Volumes/External/www/pan-crypto/PanCrypto/obj/Debug/net8.0/PanCrypto.pdb
+/Volumes/External/www/pan-crypto/PanCrypto/obj/Debug/net8.0/PanCrypto.genruntimeconfig.cache
+/Volumes/External/www/pan-crypto/PanCrypto/obj/Debug/net8.0/ref/PanCrypto.dll
